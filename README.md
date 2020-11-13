@@ -5,4 +5,4 @@ ID-Vault takes away the huzzle of wallets and blockchain by providing a free and
 
 Ever implementend Facebook or Gmail? then ID-Vault should be a breeze 
 
-(Read more)[https://dev.id-vault.com/] or dive into the (documentation)[https://dev.id-vault.com/docs/]
+[Read more](https://dev.id-vault.com/) or dive into the [documentation](https://dev.id-vault.com/docs/)
