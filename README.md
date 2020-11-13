@@ -8,4 +8,4 @@ Ever implementend Facebook or Gmail? then ID-Vault should be a breeze
 [Read more](https://dev.id-vault.com/) or dive into the [documentation](https://dev.id-vault.com/docs/)
 
 ## Contact us
-You can iether reach us by email [matthias@conduction.nl](mailto:matthias@conduction.nl) or [slack](https://join.slack.com/share/zt-j4scj7hu-JScJUoEZT~gyJee8WVWyFg) but feel free to post and [issue](https://github.com/OdysseyMomentum/Conduction/issues/new) here containing your question or feature request. Please use the appropriate format for us to be able to handle your issue quiqly.
+You can iether reach us by email [matthias@conduction.nl](mailto:matthias@conduction.nl) or [slack](https://join.slack.com/share/zt-j4scj7hu-JScJUoEZT~gyJee8WVWyFg) but feel free to post and [issue](https://github.com/OdysseyMomentum/Conduction/issues/new/choose) here containing your question or feature request. Please use the appropriate format for us to be able to handle your issue quiqly.
